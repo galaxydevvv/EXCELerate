@@ -20,7 +20,7 @@ build: v1.0.8
 https://www.youtube.com/watch?v=_5zBUxiDNF4
 
 **Latest Release:**
-placeholder
+https://github.com/galaxydevvv/EXCELerate/releases/tag/v1.0.8
 
 <hr>
 
