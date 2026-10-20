@@ -19,6 +19,9 @@ build: v1.0.8
 **Live Demo:**
 https://www.youtube.com/watch?v=_5zBUxiDNF4
 
+**Latest Release:**
+placeholder
+
 <hr>
 
 ### Requirements:
